@@ -1,0 +1,2 @@
+[23-Mar-2018 04:46:37 America/Chicago] PHP Fatal error:  Class 'TestCase' not found in /home/studioabdf/public_html/frontend/tests/ExampleTest.php on line 8
+[23-Mar-2018 04:46:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/studioabdf/public_html/frontend/tests/TestCase.php on line 21
